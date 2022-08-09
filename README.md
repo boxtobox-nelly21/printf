@@ -1,6 +1,6 @@
 # 0x11. C - printf
 * This is our own `printf` function.
-  Project to be done in teams of 2 people (your team: Nelson Otieno, Rehema Mwandembo)
+  This project has been by Nelson Otieno and Rehema Mwandembo.
 
 ## Authorized functions and macros
 * write (man 2 write)
